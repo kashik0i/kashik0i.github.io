@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Amr Badawy
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web Developer from Egypt
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/46964544?s=460&u=fe790f0f6f0148d53b9a549a78cb511c28249a1f&v=4
 
 #
 # Flags below are optional
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: amr@badawy.dev
+  facebook: 
   flickr:
-  github: barryclark/jekyll-now
+  github: kashik0i/kashik0i.github.io
   instagram:
-  linkedin:
+  linkedin: in/amr-badawy-474485195/
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  rss: rss
+  twitter: @_kashik0i
+  stackoverflow: users/14228036/kashik0i
+  youtube: channel/UCKJYG18tmKTRLoU6flxJa_Q
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: blog.badawy.dev
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "blog.badawy.dev"
 
 #
 # !! You don't need to change any of the configuration flags below !!
